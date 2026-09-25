@@ -13,6 +13,10 @@ A full-stack e-commerce web application built with **Next.js**, featuring produc
 - **Notifications** — Toast notifications for cart actions (e.g. item added, out of stock)
 - **Responsive UI** — Styled with Tailwind CSS and Headless UI components (dropdown menus, etc.)
 
+## Demo
+
+https://github.com/user-attachments/assets/d3cfa020-d14e-463a-ac0d-1df6c3b156ca
+
 ## Tech Stack
 
 | Layer | Technology |
